@@ -2,7 +2,7 @@ replicaCount: 1
 revisionHistoryLimit: 1
 image:
   repository: devendranathashok/my-microservice
-  tag: 1.0.0
+  tag: acdba2dbcf99bfcfdac8f330c167371c2d513766
   pullPolicy: IfNotPresent 
   resources:
     requests:
