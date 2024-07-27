@@ -2,8 +2,8 @@ replicaCount: 1
 revisionHistoryLimit: 1
 image:
   repository: devendranathashok/my-microservice
-  tag: acdba2dbcf99bfcfdac8f330c167371c2d513766
-  pullPolicy: IfNotPresent 
+  tag: a48e7645bd75b77a7f2c7da323bce54a2b3ccba8
+  pullPolicy: IfNotPresent
   resources:
     requests:
       cpu: 200m
